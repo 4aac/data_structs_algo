@@ -1,3 +1,4 @@
-*.txt
+pointers.txt
 *.vscode
 *.gitignore
+practice.cpp
